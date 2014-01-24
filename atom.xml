@@ -4,7 +4,7 @@
   <title><![CDATA[zzWinD Blog]]></title>
   <link href="http://zzwind.github.io/atom.xml" rel="self"/>
   <link href="http://zzwind.github.io/"/>
-  <updated>2014-01-23T23:33:03-02:00</updated>
+  <updated>2014-01-24T00:43:45-02:00</updated>
   <id>http://zzwind.github.io/</id>
   <author>
     <name><![CDATA[zzWinD]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to zzWinD Blog]]></title>
+    <link href="http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog/"/>
+    <updated>2014-01-24T00:22:36-02:00</updated>
+    <id>http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog</id>
+    <content type="html"><![CDATA[<h3>Welcome to my blog.</h3>
+]]></content>
+  </entry>
   
 </feed>
