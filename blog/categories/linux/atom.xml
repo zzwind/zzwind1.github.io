@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[zzWinD Blog]]></title>
-  <link href="http://zzwind.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Linux | zzWinD Blog]]></title>
+  <link href="http://zzwind.github.io/blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://zzwind.github.io/"/>
   <updated>2014-03-05T20:32:02+08:00</updated>
   <id>http://zzwind.github.io/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<p>pwdx &ndash; report current working directory of a process
 example:
 pwdx 1010</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to zzWinD Blog]]></title>
-    <link href="http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog/"/>
-    <updated>2014-01-24T10:22:36+08:00</updated>
-    <id>http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog</id>
-    <content type="html"><![CDATA[<h3>Welcome to my blog.</h3>
 ]]></content>
   </entry>
   
