@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[zzWinD Blog]]></title>
-  <link href="http://zzwind.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Mysql | zzWinD Blog]]></title>
+  <link href="http://zzwind.github.io/blog/categories/mysql/atom.xml" rel="self"/>
   <link href="http://zzwind.github.io/"/>
   <updated>2014-03-05T14:22:01+08:00</updated>
   <id>http://zzwind.github.io/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<p>服务器停电以后,Mysql服务器一直启动不起来.总监以为是系统文件出问题了.
 结果是Mysql启动程序会检测pid文件。如果pid文件存在就认为Mysql程序在运行中.
 解决办法就是Delete pid file!Restart mysql successful!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to zzWinD Blog]]></title>
-    <link href="http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog/"/>
-    <updated>2014-01-24T10:22:36+08:00</updated>
-    <id>http://zzwind.github.io/blog/2014/01/24/welcome-to-zzwind-blog</id>
-    <content type="html"><![CDATA[<h3>Welcome to my blog.</h3>
 ]]></content>
   </entry>
   
